@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#just a comment
+
 # Function to list available subjects
 list_subjects() {
     echo "Available subjects/projects:"
